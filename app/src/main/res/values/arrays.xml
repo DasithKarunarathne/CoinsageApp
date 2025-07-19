@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Transaction filters -->
+    <string-array name="filter_category_array">
+        <item>All Categories</item>
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Bills</item>
+        <item>Entertainment</item>
+        <item>Income</item>
+    </string-array>
+
+    <string-array name="sort_array">
+        <item>Date (Newest)</item>
+        <item>Date (Oldest)</item>
+        <item>Amount (High to Low)</item>
+        <item>Amount (Low to High)</item>
+    </string-array>
+</resources> 

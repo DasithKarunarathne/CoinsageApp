@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.coinsage.ui.home.HomeFragment"
+        android:label="@string/menu_home" />
+
+    <fragment
+        android:id="@+id/navigation_transactions"
+        android:name="com.example.coinsage.ui.transactions.TransactionsFragment"
+        android:label="@string/menu_transactions" />
+
+    <fragment
+        android:id="@+id/navigation_budget"
+        android:name="com.example.coinsage.ui.budget.BudgetFragment"
+        android:label="@string/menu_budget" />
+
+    <fragment
+        android:id="@+id/navigation_analysis"
+        android:name="com.example.coinsage.ui.analysis.AnalysisFragment"
+        android:label="@string/menu_analysis" />
+
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.example.coinsage.ui.settings.SettingsFragment"
+        android:label="@string/menu_settings" />
+
+</navigation> 

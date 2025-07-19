@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#6200EE</color>
+    <color name="primary_dark">#3700B3</color>
+    <color name="primary_variant">#8F48FF</color>
+    <color name="primary_light">#BB86FC</color>
+    <color name="accent">#03DAC6</color>
+    
+    <!-- Text Colors -->
+    <color name="primary_text">#FFFFFF</color>
+    <color name="secondary_text">#B3FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    
+    <!-- Navigation Colors -->
+    <color name="nav_unselected">#99FFFFFF</color>
+    <color name="nav_selected">@color/primary_light</color>
+    
+    <!-- Background and Surface Colors -->
+    <color name="background_light">#FAFAFA</color>
+    <color name="divider">#1FFFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F5F5F5</color>
+    <color name="background_dark">#121212</color>
+    <color name="card_background_dark">#1E1E1E</color>
+    <color name="card_background_elevated">#2C2C2C</color>
+    
+    <!-- Link and Interactive Colors -->
+    <color name="link_blue">#2196F3</color>
+    <color name="teal">#009688</color>
+    
+    <!-- Chart Colors -->
+    <color name="chart_color_1">#2196F3</color>
+    <color name="chart_color_2">#4CAF50</color>
+    <color name="chart_color_3">#FFC107</color>
+    <color name="chart_color_4">#9C27B0</color>
+    <color name="chart_color_5">#F44336</color>
+    
+    <!-- Status Colors -->
+    <color name="error_red">#CF6679</color>
+    <color name="warning_yellow">#FFB800</color>
+    <color name="success_green">#00C853</color>
+    
+    <!-- Additional Colors -->
+    <color name="black">#000000</color>
+    <color name="light_gray">#F5F5F5</color>
+</resources> 
