@@ -14,7 +14,16 @@ CoinSage is a modern Android application that helps users track their income, ex
 
 ## Screenshots
 
-[Add screenshots here once the app is complete]
+![Main Screen](Screenshots/MainScreen.jpg)
+![Expense Analysis](Screenshots/ExpenseAnalysis.jpg)
+![Transactions](Screenshots/Transactions.jpg)
+![Add Transactions](Screenshots/AddTransactions.jpg)
+![Calender](Screenshots/CalenderTransactions.jpg)
+![Delete Transactions](Screenshots/DeleteTransactions.jpg)
+![Settings](Screenshots/Settings.jpg)
+![Settings Currency](Screenshots/SettingsCurrency.jpg)
+
+
 
 ## Technical Details
 
